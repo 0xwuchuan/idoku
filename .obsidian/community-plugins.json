@@ -1,0 +1,11 @@
+[
+  "vim-toggle",
+  "obsidian-vimrc-support",
+  "obsidian-hider",
+  "obsidian-fuzzytag",
+  "obsidian-minimal-settings",
+  "obsidian-relative-line-numbers",
+  "templater-obsidian",
+  "obsidian-linter",
+  "obsidian-git"
+]

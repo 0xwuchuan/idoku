@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "e7250871e45f2fe5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9ba498e903cd918",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cac96fa5ab82c8ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graduating.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Graduating"
+            }
+          },
+          {
+            "id": "af6a3cd36388d8d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sui.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sui"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b3fd60caecd77413",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "dbe30575057aa01b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "a009787f3fc8c4ab",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "c66ee8f04d471843",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "b3c27dfde8994298",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "80b37debcdc83ab9",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "217bb030392c0e00",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9ab145d37a40fd74",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "2 Area/Travel/bali packing list.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "824fa77a6f5bc076",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "4 Archive/trip.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "93b0c085b796ee7b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "4 Archive/trip.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "af6a3cd36388d8d1",
+  "lastOpenFiles": [
+    "Domain Specific Vulnerabilities.md",
+    "bali packing list.md",
+    "2 Area/Travel/shenzhen2024.md",
+    "2 Area/Travel/bali packing list.md",
+    "4 Archive/trip.md",
+    "2 Area/Books.md",
+    "Salary Budget.md",
+    "Graduating.md",
+    "2 Area/2.00 Thoughts&Notes/bali packing list.md",
+    "intern application.loom.md",
+    "work/job search.md",
+    "work/Behavioural Interview.md",
+    "work/technical interview learnings.md",
+    "work/specific leet questions.md",
+    "work/okx prep.md",
+    "Is4262.md",
+    "nus/IS4262 Product Idea.md",
+    "Monitor.md",
+    "climbing/Gear.md",
+    "climbing/Flexibility.md",
+    "Pinch Block.md",
+    "climbing/Warm up.md",
+    "climbing/Climbing stuff.md",
+    "nus/geh tut.md",
+    "welcome to uniqlo.md",
+    "video idea.md",
+    "work/intern application.loom",
+    "nus/Must-have Mac Apps.png"
+  ]
+}
