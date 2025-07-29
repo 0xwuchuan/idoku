@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oracle Feed Compatability.md",
+                "file": "Ton Concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Oracle Feed Compatability"
+              "title": "Ton Concepts"
             }
           }
         ]
@@ -177,9 +177,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Solana Notes.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Solana Notes"
             }
           }
         ],
@@ -205,18 +207,26 @@
   },
   "active": "79c9f9b671588251",
   "lastOpenFiles": [
-    "EVM Vulnerabilities.md",
-    "Oracle Feed Compatability.md",
-    "Solana Vulnerabilities.md",
-    "Sui Concepts.md",
-    "Domain Specific Vulnerabilities.md",
-    "attachments/Pasted image 20250408104728.png",
+    "Tools.md",
     "Bitcoin Script.md",
     "Aptos Concepts.md",
-    "Ton Concepts.md",
-    "Tools.md",
-    "web3 security.md",
+    "Clippings/Token-2022 Security Best Practices - Part 1 Mint & Token Account.md",
+    "attachments/Pasted image 20250408104728.png",
     "templates/Default Template.md",
+    "EVM Vulnerabilities.md",
+    "Solana Vulnerabilities.md",
+    "Solana Notes.md",
+    "Dangerous use of deadline parameter.md",
+    "Ton Concepts.md",
+    "Sui Notes.md",
+    "Oracle Feed Compatability.md",
+    "PDA.md",
+    "init_if_needed macro.md",
+    "Clippings",
+    "Some Compound cTokens do not revert on failure.md",
+    "Sui Concepts.md",
+    "Domain Specific Vulnerabilities.md",
+    "web3 security.md",
     "grep.app.md",
     "attachments",
     "templates",
@@ -226,16 +236,7 @@
     "trip.md",
     "Bit Manipulation.md",
     "leetcode.md",
-    "Sui.md",
-    "Templates/Default Template.md",
     "Templates",
-    "books.md",
-    "bali packing list.md",
-    "2 Area/Travel/shenzhen2024.md",
-    "2 Area/Travel/bali packing list.md",
-    "Clippings/ERC-6492 Signature Validation for Predeploy Contracts.md",
-    "Clippings",
-    "2 Area/Shopping/International Forwarding Service.md",
     "2 Area/Travel",
     "2 Area/Finance",
     "2 Area/Work",

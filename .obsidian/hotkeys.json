@@ -44,7 +44,14 @@
       "key": "F"
     }
   ],
-  "editor:open-search": [],
+  "editor:open-search": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
   "file-explorer:new-file": [],
   "templater-obsidian:create-new-note-from-template": [
     {

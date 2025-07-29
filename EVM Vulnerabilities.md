@@ -13,7 +13,13 @@ tags: evm
 #storage_layout_collision
 #signature_replay
 #oracle 
+[[Oracle Feed Compatability]]
 
 
 #amm
 #lending
+[[Some Compound cTokens do not revert on failure]]
+
+
+#uniswap
+[[Dangerous use of deadline parameter]]
